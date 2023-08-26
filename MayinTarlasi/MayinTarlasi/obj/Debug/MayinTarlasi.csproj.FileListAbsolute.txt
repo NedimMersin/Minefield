@@ -1,0 +1,15 @@
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\local.egitmen\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\Nedim\Desktop\YAZILIM UZMANLIĞI DERS NOTLARI\16.03.2023 kalıtım mayıntarlası\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
